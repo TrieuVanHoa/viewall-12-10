@@ -1,0 +1,236 @@
+﻿header {
+    width: 100%;
+    height: 70px;
+    background-color: black;
+    color: snow;
+}
+.ViewAll{
+    display:table;
+    max-width:80%;
+    justify-content:center;
+    margin:auto;
+}
+.anhQC {
+
+    border-spacing: 10px;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
+.anh1 {
+    width: 750px;
+    height: 200px;
+}
+
+.anh2 {
+    height: 90px;
+}
+
+.anh3 {
+    height: 90px;
+}
+
+
+    .LocTT {
+    display: flex;
+    margin: auto;
+    border-spacing:6px;
+}
+.TT {
+    height:34px;
+    background-color:white;
+    border-radius:4px;
+    padding: 8px 12px;
+    border-color:lightgray;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+
+.SamSung {
+    justify-content: center;
+    margin: auto;
+    border-spacing: 0px;
+    display: flex;
+    margin: auto;
+    border-spacing:20px;
+}
+    .SamSung tr td {
+        max-width:450px;
+    }
+.TenDt {
+    font-size: 15px;
+    font-family: Arial;
+    margin:0px 0px 5px;
+}
+.Gia {
+    font-family: Arial;
+    font-size: 19px;
+    color:red;
+}
+
+.oldPrice {
+    color: gray;
+    font-family: 'Times New Roman';
+    font-size: small;
+    display: inline;
+    font-weight:300;
+}
+
+.discont {
+    color: gray;
+    font-family: 'Times New Roman';
+    font-size: small;
+    display: inline;
+    color: grey;
+}
+
+.SSD1 {
+    border-radius: 2px;
+    color: #2F80ED;
+    border-color: #2F80ED;
+    height: 25px;
+}
+
+.SSD {
+    border-radius: 2px;
+    color: grey;
+    border-color: gray;
+    height: 25px;
+}
+
+.Cpu {
+    font-size: 13px;
+    font-family: Arial;
+    color: grey;
+}
+
+.Sosanh {
+    font-size: 13px;
+    font-family: Arial;
+    color: #2F80ED;
+}
+.BangLogo {
+    height: 15px;
+    width: 1200px;
+    height: 92px;
+    border-spacing:10px;
+}
+
+    .BangLogo tr td img {
+        width: 91px;
+        justify-content:center;
+        justify-items:center;
+        padding-left:16px;
+    }
+
+    .BangLogo tr td {
+        height: 20px;
+        border-radius: 20px;
+        border: 0.5px solid grey;
+        border-spacing:10px;
+    }
+.ChonDt{
+    border-spacing:10px;
+}
+    .ChonDt tr td {
+        border-spacing: 10px;
+    }
+.Cdt {
+    height: 34px;
+    border-radius: 20px;
+    border: 0.5px solid dimgrey;
+}
+.LuaChon {
+    display: flex;
+}
+
+.pdt {
+    font-weight: 300;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px 25px 15px 0px;
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.LuaChon td p {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px 25px 15px 0px;
+    text-align: center;
+    padding-bottom: 10px;
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.LuaChon input {
+    display: inline;
+    padding-bottom:5px;
+}
+.TraGop{
+    background-color:#F1F1F1;
+    width:60px;
+    height:10px;
+    font-size:11px;
+    border-radius:2px;
+    padding-inline-start:10px;
+
+
+}
+.XemThem{
+    justify-content:center;
+    display:flex;
+    margin:auto;
+    width:540px;
+    height:41px;
+}
+.XemThem input{
+    justify-content:center;
+    text-align:center;
+    width:340px;
+}
+.AvaKid {
+    background-color: #ED1164;
+    justify-content: center;
+    margin: auto;
+    border-spacing: 5px;
+    display: block;
+    margin: auto;
+    border-radius: 3px;
+    display:flex;
+}
+
+.AvaLogo {
+    
+}
+footer {
+    width: 100%;
+    height: 70px;
+    background-color: black;
+    color: snow;
+}
+.AvaNhap td{
+    border-radius:5px;
+}
+.name{
+    width:170px;
+    height:38px;
+    border-radius:10px;
+    justify-content:center;
+    margin:auto;
+    display:flex;
+}
+.NhanMa {
+    width: 170px;
+    height: 38px;
+    border-radius: 10px;
+    justify-content: center;
+    margin: auto;
+    display: flex;
+}
+.ava1{
+    background-color:#FEFCEC;
+}
+.p2{
+    color:#ED1164;
+}
